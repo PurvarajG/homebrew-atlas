@@ -7,7 +7,7 @@ cask "atlas" do
   desc "Capture buffer for notes, links, screenshots, and prompts"
   homepage "https://purvarajg.github.io/atlas-releases/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Atlas.app"
 
