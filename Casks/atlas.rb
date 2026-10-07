@@ -1,6 +1,6 @@
 cask "atlas" do
-  version "1.9.0"
-  sha256 "0bdb28ee3b60ad08debd7e9c763c36dba4638214bd7c9f042c199f3dc4e77eb5"
+  version "1.10.0"
+  sha256 "1695242686f73a40d24b32a3550a046e87a73eaa103b3d74a99429cff79d8f32"
 
   url "https://github.com/PurvarajG/atlas-releases/releases/download/v#{version}/Atlas-#{version}.dmg"
   name "Atlas"
